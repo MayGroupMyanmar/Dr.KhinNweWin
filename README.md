@@ -1,7 +1,7 @@
 # Dr.KhinNweWin
 <htmll>
 <head>
-စာအုပ်စာရင်း
+ဖတ်ချင်သော စာအုပ်နာမည်ကို (click) နှိပ်ပါ။
 </head>
 <body>
 <br/>
