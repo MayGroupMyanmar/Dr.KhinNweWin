@@ -1,9 +1,26 @@
 # Dr.KhinNweWin
-<htmll>
+<html>
 <head>
-ဖတ်ချင်သော စာအုပ်နာမည်ကို (click) နှိပ်ပါ။
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
 </head>
 <body>
+ဖတ်ချင်သော စာအုပ်နာမည်ကို (click) နှိပ်ပါ။
 <br/>
 <table>
 <tr><th>အမှတ်စဥ်</th><th>စာအုပ် နာမည်</th></tr>
