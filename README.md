@@ -8,7 +8,7 @@
 <br/>
 2. "Download Button" ကို click နှိပ်ပါ။ "Do you want to download" စာ ပေါ်လာပါလိမ့်မည်။
 <br/>
-3. "Download" စာကို ထပ် click နှိပ်ပါ။
+3. အပြာရောင် "Download" စာကို ထပ် click နှိပ်ပါ။
 <br/>
 <table>
 <tr><th>အမှတ်စဥ်</th><th>စာအုပ်နာမည်</th></tr>
